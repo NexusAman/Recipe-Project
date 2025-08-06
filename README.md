@@ -28,9 +28,9 @@ Welcome to **Aman Da Dhabba**, a simple and elegant web project built using HTML
 ## 🧾 Recipes Included
 
 1. **Gulab Jamun**
-   - Bread, Milk, Sugar, Oil
+   - Bread, Milk, Sugar, Oil.
 2. **Magaz**
-   - Ghee, Milk, Sugar, Dry Fruits
+   - Ghee, Milk, Sugar, Dry Fruits.
 
 ---
 
